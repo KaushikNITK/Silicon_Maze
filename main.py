@@ -1,5 +1,3 @@
-!pip install Flask request jsonify
-!pip install nbformat nbconvert
 from flask import Flask, request, jsonify
 import nbformat
 from nbconvert.preprocessors import ExecutePreprocessor
