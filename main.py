@@ -19,5 +19,5 @@ def run_notebook(notebook_path):
     ep.preprocess(nb, {})
 
 if __name__ == '__main__':
-    run_notebook('chatbot.ipynb')  # Specify your notebook path here
+    run_notebook('chatbot.py')  # Specify your notebook path here
     app.run(debug=True)
