@@ -5,6 +5,6 @@ The file chatbot.ipynb has details of model and response of the model
 .This bot is capable of taking image, pdf, and url as input also 
 .This chat bot is spacifically answers questions related to pokemon and politly rejects other questions
 
-we weren't able to connect and make a domain as were had no sufficient time for that.
+we weren't able to connect and make a domain as were had no sufficient time for that. We tried making a domain on render too.
 
 main.py has the base code for deplyoing it using flask
