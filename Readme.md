@@ -1,4 +1,5 @@
 #Xception#
+
 To deploy a chat bot we need a API key of openai or gemini or any other. we went with gemini 
 
 As we apply for a gemini ai's API code of 1.5 pro we can get it free with upto 60 queries per min
